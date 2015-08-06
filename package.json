@@ -20,6 +20,7 @@
   "homepage": "https://github.com/raunaqrox/coDraw",
   "dependencies": {
     "express": "^4.10.1",
-    "jade": "^1.7.0"
+    "jade": "^1.7.0",
+    "basic-auth": "~1.0.3"
   }
 }
